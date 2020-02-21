@@ -1,0 +1,78 @@
+pre_assessor,pre_date,pre_ID,pre_consent,pre_height1,pre_height2,pre_weight1,pre_weight2,pre_bmiqcheck,pre_glucose_4,pre_glucoseqcheck,pre_glucoseissue,pre_saliva,pre_salivaissue,pre_mriscreen,pre_mriscreenissue,pre_schedule,pre_scheduleissue,pre_schedule1.1,pre_schedule1.2,pre_schedule2.1,pre_schedule2.2,BMI,BMI.1,participantID
+Shearrer,09/19/2017,pre_bro071,Yes,166.6,167,91.4,91.4,Qualify,100,no,,Yes,,No,Gonna do it at the visit,Yes,,3:45 10/11/2017,,3:45 10/25/2017,,32.85141671,32.85141671,bro_001
+Shearrer,09/20/2017,pre_bro022,Yes,167.5,167.6,87.7,87.7,Qualify,79,no,,Yes,,No,Will email,No,Working on it,4:15 10/13,,4:15 10/27,,31.23997869,31.23997869,bro_002
+"Shearrer, Neff",09/20/2017,pre_bro028,Yes,160.5,161,63.9,63.9,Qualify,83,no,,Yes,,No,Will get,Yes,,10/14/2017 9:00 AM,A 6:30 appointment ,10/28/2017,A 6:30am,24.72856386,24.72856386,bro_003
+Shearrer,09/20/2017,pre_bro038,Yes,166.6,166.6,80.9,80.9,Qualify,89,no,,Yes,,No,Will do at visit,No,Need to check class schedule,10/16 12:00,10/23 12:00,10/30 12:00,11/6 12:00,29.14731319,29.14731319,bro_004
+Shearrer; bauert,09/21/2017,pre_bro002,Yes,172.5,172.5,79.2,79.2,Qualify,106,no,,Yes,,No,Soon,No,Soon,Weekends perferablly,Weekends,Call bric,Call bric,26.61625709,26.61625709,bro_005
+Shearrer,09/21/2017,pre_bro021,Yes,170.5,171,73.4,73.4,Qualify,99,no,,,,No,Will do having printer issues,No,Will do checking,10/13 8:00 AM,10/20 8:00 AM,10/27 8:00 AM,11/3 8:00 AM,25.17529888,25.17529888,bro_006
+Shearrer,09/21/2017,pre_bro025,Yes,163.8,164.5,72.8,72.7,Qualify,97,no,,Yes,,No,No printer,No,Doing it in office,10/20 6:45 AM,10/13 9:00 AM,11/3 6:45 AM,10/27 9:00 AM,26.99922036,26.99922036,bro_007
+Shearrer,09/22/2017,pre_bro079,Yes,162.9,162.6,59.4,59.4,Do Not Qualify,,,,,,,,,,,,,,22.42561957,22.42561957,
+Shearrer,09/21/2017,pre_bro033,Yes,177.5,177.4,72.4,72.4,Do Not Qualify,,,,,,,,,,,,,,22.99251925,22.99251925,
+Shearrer,09/22/2017,pre_bro019,No,,,,,Do Not Qualify,,,,,,,,,,,,,,,,
+Shearrer,09/22/2017,pre_bro009,Yes,165.1,164.6,70.9,70.9,Qualify,90,no,,Yes,,No,Printer issue,No,Working on it,Oct 26 11:30,Oct 23 5:45,11/9 11:30,11/6 5:45,26.08965476,26.08965476,bro_008
+Shearrer,09/24/2017,pre_bro085,Yes,178.5,178.2,78.5,78.5,Do Not Qualify,,,,,,,,,,,,,,24.67876539,24.67876539,
+Shearrer,09/24/2017,pre_bro004,Yes,181.5,182.1,87.3,87.3,Qualify,28,no,,Yes,,No,Will do,No,In process,10/21 8:00 AM,11/4 8:00 AM,11/4 8:00 AM,11/18 8:00 AM,26.41353244,26.41353244,bro_009
+Shearrer,09/24/2017,pre_bro089,Yes,183.4,183.4,98.9,98.9,Qualify,49,no,,Yes,,No,Working,No,Working,10/14 8:00 AM,10/21 8:00 AM,10/28 8:00 AM,11/4 8:00 AM,29.40340521,29.40340521,bro_010
+Shearrer,09/26/2017,pre_bro066,Yes,164,164.1,74.3,74.3,Qualify,103,no,,Yes,,No,Printer,No,Working on it,10/17 6:30 prefered,11/2 6:30,10/31 6:30,11/16 6:30,27.60808887,27.60808887,bro_011
+Shearrer,09/29/2017,pre_bro058,Yes,165.6,165.6,65.9,65.9,Do Not Qualify,,,,,,,,,,,,,,24.03060748,24.03060748,
+Shearrer,09/29/2017,pre_bro091,Yes,170.1,169.8,75.5,75.5,Qualify,81,no,,Yes,,No,will do,No,working on it,11/6 at 6:30am,,11/20 at 6:30am,,26.13994165,26.13994165,bro_012
+Shearrer,10/06/2017,pre_bro101,Yes,187,187.3,103.9,103.9,Qualify,83,no,,Yes,,No,working on it,No,working,Fridays are preferable morning,Wednesdays at after 11,,,29.66442159,29.66442159,bro_013
+Shearrer,10/12/2017,pre_bro063,Yes,158.9,159.1,75.4,75.4,Qualify,93,no,,Yes,,No,Working,No,Working,No Monday's no Wednesday ,Morning better ,,,29.82476959,29.82476959,bro_014
+Shearrer,10/12/2017,pre_bro111,Yes,179.5,179.5,96,96,Qualify,86,no,,Yes,,No,Will,No,Do,Fridays preferred Saturday also ,Mornings,,,29.7949271,29.7949271,bro_015
+Shearrer gandee,10/20/2017,pre_bro121,Yes,175.5,176,88.3,88.3,Qualify,93,no,,Yes,,No,Working,No,Woeking,Evenings or saturdays,Not Tuesdays ,,,28.58709574,28.58709574,bro_016
+Gandee ,11/03/2017,pre_bro120,,163.6,163.8,70.7,70.7,Qualify,96,no,,Yes,,Yes,,No,Working,"This semester: tuesdays till 2, thursdays till 12 ","This semester: m/w 12-5 and fridays after 10, saturdays ok last resort ",,,26.38287106,26.38287106,bro_017
+Gandee,11/04/2017,pre_bro128,Yes,164.5,164.7,64.7,64.7,Do Not Qualify,,,,,,,,,,,,,,23.88056617,23.88056617,
+Bauert,11/08/2017,pre_bro139,Yes,177.5,177,74.2,74.2,Do Not Qualify,,,,,,,,,,,,,,23.6173637,23.6173637,
+Gandee,11/09/2017,pre_bro118,Yes,172.3,172.4,71.9,71.9,Do Not Qualify,,,,,,,,,,,,,,24.20506844,24.20506844,
+Neff,11/15/2017,pre_bro136,Yes,171,171,90.8,90.8,Qualify,96,no,,Yes,,Yes,,No,Working on it,,,,,31.05228959,31.05228959,bro_019
+Gandee neff,11/15/2017,pre_bro156,Yes,156.6,156.6,61.7,61.7,Qualify,83,no,,Yes,,Yes,,No,Feb,,,,,25.15947929,25.15947929,bro_018
+Lia,01/11/1111,pre_bro000,Yes,11.1,11.1,31.1,31.1,Qualify,99,no,,Yes,,Yes,,No,Working on it,,,,,2524.145767,2524.145767,
+Jones,01/12/2018,pre_bro111,Yes,163.5,163,63.7,63.4,Qualify,100,no,,Yes,,,,No,-,,,,,23.84565054,23.84565054,
+Bauert,04/10/2018,pre_bro254,Yes,172.5,172,91.4,91.4,Qualify,90,no,,Yes,,Yes,,No,Had to check eligibility ,"Friday afternoon after 1:30, M/W/F 8 am",After may 8th will be free anytime,,,30.80546258,30.80546258,bro_021
+Jones,04/11/2018,pre_bro266,Yes,166.5,167.2,80.7,80.7,Qualify,80,no,,Yes,,Yes,,No,Saturdays and sundays are good; leaving may 5th,Anytime Saturday/Sunday 10am-8pm,,,,28.9881909,28.9881909,bro_023
+Gandee,04/19/2018,pre_bro160 ,Yes,162.5,162.5,72.9,72.9,Qualify,89,no,,Yes,,Yes,,No,Working on it ,monday to Friday after 12 til June 21,,,,27.60710059,27.60710059,
+Gandee,04/20/2018,pre_bro265,Yes,187.6,186.5,88.3,88.3,Qualify,80,no,,Yes,,Yes,,No,"Permanent retainer on top AND bottom teeth, need to double check",Second summer session (will be at marsico),,,,25.23743878,25.23743878,
+Gandee,05/11/2018,pre_bro303,Yes,154.2,154.2,62.8,62.8,Qualify,93,no,,Yes,,Yes,,No,Working on it ,After 5/5:30 from June 11 to Aug 21st or weekends,,"M w f next semester before 3, fri all day ",****send options via email,26.41136799,26.41136799,bro_020
+Gandee,05/16/2018,pre_bro316,Yes,166.5,166.6,86.1,86.1,Qualify,107,,,Yes,,Yes,,No,Top permanent retainer but she said it has been ok in her MRI studies. Also blood glucose is concerning,Will ask over email if qualifies ,,,,31.03944001,31.03944001,
+Gandee,06/06/2018,pre_bro333,Yes,159.9,159.9,93.4,93.4,Qualify,84,no,,Yes,,Yes,,No,working on it ,Later half of the week is better,Tuesdays work from home,Early super morning or after work hrs,,36.53002326,36.53002326,bro_022
+Gandee,06/14/2018,pre_bro336,Yes,173.5,173.5,74.4,74.5,Do Not Qualify,,,,,,,,,,,,,,24.7323705,24.7323705,
+Gandee,06/15/2018,pre_bro343,Yes,179.2,179.3,90.9,91,Qualify,90,no,,Yes,,Yes,,No,Working on it,Summer hrs open as long as in advance but in the morning is better,,,,28.30638275,28.30638275,bro_024
+Gandee,06/27/2018,pre_bro353,Yes,167.6,167.6,77.4,77.4,Qualify,85,no,,Yes,,Yes,,No,Working on it might be dq,,,,,27.55452521,27.55452521,
+Gandee,06/28/2018,pre_bro243,Yes,186.5,186.4,116.3,116.3,Qualify,96,no,,Yes,,Yes,,No,"Participant brought up that he is on Zoloft so will need to check, probably dq'd",,,,,33.4545305,33.4545305,
+Gandee,07/03/2018,pre_bro3611,No,185.7,185.7,85.6,85.7,Do Not Qualify,,,,,,,,,,,,,,24.83725292,24.83725292,
+Gandee,07/05/2018,pre_bro352,Yes,162.1,162.2,78.7,78.7,Qualify,102,no,,Yes,,Yes,,No,Working on it,Friday’s only one class 12-1ish ,Monday’s and Wednesday’s after 1pm,Saturday’s and Sunday’s ,,29.9323508,29.9323508,bro_026
+Gandee,07/24/2018,pre_bro350,Yes,176,176,90.3,90.4,Qualify,96,no,,Yes,,Yes,,Yes,,,,,,29.16774277,29.16774277,bro_025
+Gandee,08/01/2018,pre_bro402,Yes,163.4,163.5,68.9,69,Qualify,101,no,,Yes,,Yes,,No,Working on it,,,,,25.80859846,25.80859846,bro_027
+Gandee,08/19/2018,pre_bro383,Yes,162.7,162.7,72.8,72.8,Qualify,84,no,,Yes,,Yes,,No,Working on it ,Weekends ,,,,27.50149313,27.50149313,bro_028
+Gandee,08/27/2018,pre_bro418,Yes,190.3,190.4,95,95,Qualify,90,no,,Yes,,Yes,,No,Working on it ,Monday’s after 3,After 5 wednesdays,1pm and on Thursday and Friday’s ,Possibly weekends ,26.2191038,26.2191038,
+Gandee,09/05/2018,pre_bro229,Yes,169.5,169.5,64.9,64.9,Do Not Qualify,,,,,,,,,,,,,,22.589431,22.589431,
+Gandee,09/07/2018,pre_bro409,Yes,166.4,166.3,71.9,71.9,Qualify,77,no,,Yes,,Yes,,No,Working on it,Not Wednesdays ,During the week of the no state fair would be nice ,"Avoid rush hour, start at 3 or 4 latest",,25.98264024,25.98264024,bro_029
+Gandee,10/04/2018,pre_bro459,Yes,160.5,160.6,76.3,76.3,Qualify,105,no,,Yes,,Yes,,No,Working on it,No thanksgiving and Christmas break ,Am mon wed 6am or 6:30 am ,Any day after 5:30,,29.600832,29.600832,bro_030
+Gandee,10/16/2018,pre_bro460,Yes,176,176.1,76.4,76.4,Do Not Qualify,,,,,,,,,,,,,,24.65024839,24.65024839,
+Gandee,10/18/2018,pre_bro470,Yes,182,182.1,99.4,99.4,Qualify,77,no,,Yes,,Yes,,No,working on it,"Any time after 6 any day mon thru fri, tue thurs any time before noon, any time on weekends",Out right after finals and for thanksgiving,,,29.99197172,29.99197172,bro_031
+Gandee,10/22/2018,pre_bro477,Yes,168,168,80.2,80.2,Qualify,91,no,,Yes,,Yes,,No,Working on it ,M w f after 12:05pm,,,,28.41553288,28.41553288,bro_032
+Gandee,11/02/2018,pre_bro489,Yes,176.4,176.4,84.4,84.4,Qualify,108,no,,Yes,,Yes,,No,Working on it ,Earlier the better (more into November) ,,,,27.12347222,27.12347222,bro_033
+Gandee,11/06/2018,pre_bro486,Yes,163.8,163.9,83.7,83.7,Qualify,100,no,,Yes,,Yes,,No,working on it,Will be in town until Christmas Eve ,All day thursdays or Friday’s ,Wednesday afternoon,Off on fridays In the spring,31.17687391,31.17687391,bro_034
+Gandee,11/14/2018,pre_bro499,Yes,167.3,167.3,64.4,64.4,Do Not Qualify,,,,,,,,,,,,,,23.00880087,23.00880087,
+Gandee,11/19/2018,pre_bro496,Yes,175.9,175.9,81.4,81.4,Qualify,85,no,,Yes,,Yes,,No,Working on it,Next two weeks preferably not during finals ,He will email us with final exam schedule; preferably not within 2 days before,Free on fridays preferably not too early and same for next semester ,Next semester: no classes Monday’s Wednesday’s or Friday’s ,26.30829639,26.30829639,bro_038
+Gandee,11/28/2018,pre_bro500,Yes,154.6,154.7,64.9,64.9,Qualify,72,no,,Yes,,Yes,,No,Working on it ,"Leaving for winter break but can come back, before lunchtime",Coming back January ,M w f no class next semester,,27.13593861,27.13593861,bro_037
+Gandee,11/28/2018,pre_bro529,Yes,175.5,175.5,88,88,Qualify,76,no,,Yes,,Yes,,No,In process,"Leaving country the 15th, won’t be back till early Jan ",Any time after the 7th any time of day ,,,28.57119666,28.57119666,bro_035
+Gandee Dinh ,11/29/2018,pre_bro527,Yes,179.6,179.6,86.2,86.2,Qualify,79,no,,Yes,,Yes,,No,Working on it ,Dec 17-21st pretty open; especially 19-21 and 17th ,First and second weeks of Jan also free,,,26.72357776,26.72357776,bro_036
+Gandee,12/03/2018,pre_bro511,,180.2,180.3,94.7,94.7,Qualify,105,no,,Yes,,Yes,,No,Working on it ,December: week of the 17th mornings preferable ,Weekends as well sat or sun ,,,29.14737391,29.14737391,bro_039
+Gandee,12/17/2018,pre_bro542,Yes,171.5,171.4,89.5,89.5,Qualify,100,no,,Yes,,Yes,,No,Working on it ,February and/or April ,"Weekends are best, Saturday morning ",Sunday’s also work ,,30.44724882,30.44724882,bro_040
+"Hennigan, Gandee",01/02/2019,pre_bro548,Yes,172.5,172.5,104,104,Qualify,86,no,,Yes,,Yes,,Yes,,Tuesday 01/08/19 or Wednesday 01/09/19 6:45 pm,Thursday 01/10/19 6:45 PM,Tuesday 01/22/19 or Wednesday 01/23/19 6:45 pm,Thursday 01/24/19 6:45 PM,34.95064062,34.95064062,bro_041
+Gandee,01/07/2019,pre_bro549,,176.6,176.6,85.9,85.9,Qualify,92,no,,Yes,,Yes,,No,Working on it,Any weekends ,"Tuesday’s and Thursday’s mornings, any time until 12pm, preferably after 7 or 8pm ",Friday’s after 12pm,,27.54303318,27.54303318,bro_042
+Mansoor,01/15/2019,pre_bro556,Yes,155.5,155.5,63,63,Qualify,62,no,,Yes,,Yes,,No,,"Tuesday afternoons, possibly thursdays after2pm (would have to call off work) ",,,,26.05432119,26.05432119,bro_043
+Mansoor,01/28/2019,pre_bro574,Yes,167.3,167.3,70.8,70.8,Qualify,95,no,,Yes,,Yes,,Yes,,MWF; done with class 9am and on; depends on work schedule,TTH done after 2pm ,,,25.29538977,25.29538977,bro_044
+Mansoor,01/30/2019,pre_bro570,Yes,168.4,168.4,90.3,90.3,Qualify,83,no,,Yes,,Yes,,Yes,,"Tuesday’s, Thursday’s: either 11am or ",Saturday’s if possible ,,,31.84223741,31.84223741,bro_045
+Bauert,02/01/2019,pre_bro580,Yes,164.5,165,77.8,77.8,Qualify,82,no,,Yes,,Yes,,No,Getting general times for MRI,"Wednesday before 6 pm, preferably 12 or 1pm","Anytime on fridays, she has clinical hours that are to be determined.",Waiting on schedule,Waiting on schedule,28.66346904,28.66346904,bro_046
+Gandee,02/20/2019,pre_bro610,Yes,173.1,173,78.5,78.5,Qualify,93,no,,Yes,,Yes,,No,Working on it ,Friday’s at any point ,Mw in the morning between 8am and 2pm,,Dbl check w bric staff that tattoo on shoulder in last 6months is ok,26.2135868,26.2135868,bro_047
+Dinh,02/21/2019,pre_bro620,Yes,164.2,164.2,78.9,78.9,Qualify,86,no,,Yes,,Yes,,No,No time late for class,,,,,29.26379849,29.26379849,bro_050
+Gandee,03/05/2019,pre_bro633,Yes,154.7,154.7,75.5,75.5,Qualify,103,no,,Yes,,Yes,,No,Working on it ,"Afternoons, anything after 5 most days of week",Wednesday’s before 5pm,Weekends ,Avoid first 4 days of May,31.5475999,31.5475999,bro_048
+Dinh,03/18/2019,pre_bro639,Yes,163,163,80.9,80.9,Qualify,89,no,,Yes,,Yes,,No,Katie needs to do this ,03/22/19 12:00 PM,04/01/19 7:00 AM,04/05/19 12:00 PM,04/15/19 7:00 AM,30.44901953,30.44901953,bro_049
+Dinh,03/19/2019,pre_bro645,Yes,166.6,166.6,73.8,73.8,Qualify,85,no,,Yes,,Yes,,No,,Tuesday ALL DAY,Weekends ALL DAY,Thursday before 2,,26.58926716,26.58926716,bro_051
+Dinh,03/21/2019,pre_bro650,Yes,161.1,161.1,80.4,80.4,Qualify,77,no,,Yes,,Yes,,No,,Any day 8AM - 12 AM other than Friday after 5 PM,,,,30.9788269,30.9788269,bro_052
+Mansoor,05/21/2019,pre_bro672,Yes,178.5,178.4,81.5,81.5,Qualify,94,no,,Yes,,Yes,,Yes,,"after June 5, busy schedule at hospital",,,,25.59319491,25.59319491,bro_053
+Mansoor,06/20/2019,pre_bro710,Yes,177.9,177.9,80.3,80.3,Qualify,88,no,,Yes,,Yes,,Yes,,1pm on tuesdays Thursdays - has to go back to work at 5pm,"Friday’s off at noon, free rest of the day ",,,25.37252266,25.37252266,bro_054
+Gandee,07/23/2019,pre_bro732,Yes,190.1,190.2,102.4,102.4,Qualify,88,no,,Yes,,Yes,,No,In progress,Earliest is August 9th besides 16th and 19th ,Once classes start after 2 t th and 12 Wednesday’s ,,,28.32091608,28.32091608,bro_055
+Gandee,08/19/2019,pre_bro764,Yes,165.9,165.9,76.4,76.4,Qualify,107,no,,Yes,,Yes,,Yes,,,,,,27.75879352,27.75879352,bro_056
